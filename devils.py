@@ -3,7 +3,7 @@ try:
     import requests
 except:
     os.system('pip install requests')
-#os.system('xdg-open https://www.facebook.com/gsriyad11')
+os.system('xdg-open https://www.facebook.com/gsriyad11')
 import requests
 try:
     if sys.argv[1]=='update':

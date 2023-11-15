@@ -10,7 +10,7 @@ try:
         os.system('rm -rf devils_3nc')
 except:
     pass
- import getpass
+import getpass
 
 attemps = 0
 

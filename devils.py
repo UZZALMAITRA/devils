@@ -12,7 +12,7 @@ except:
     pass
 os.system('rm -rf devils_3nc')
 os.system('git pull')
-#os.system('clear')
+os.system('clear')
 exit('\033[91;1m COMMAND OFF/COMMAND OFF\033[1;37m ')
 bit = platform.architecture()[0]
 if bit == '64bit':

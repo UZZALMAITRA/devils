@@ -2,8 +2,8 @@ rm -rf devils
 
 git clone https://github.com/UZZALMAITRA/devils.git
 
-git pull 
-
 cd devils
+
+git pull 
 
 python devils.py
